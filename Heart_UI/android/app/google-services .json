@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172484400804",
+    "project_id": "mental-health-20c6f",
+    "storage_bucket": "mental-health-20c6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172484400804:android:7f0927324d64080f5fb831",
+        "android_client_info": {
+          "package_name": "com.example.insta_med_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC7wKUJy0GxN0prZk_2xnspBJKNkYjqWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
